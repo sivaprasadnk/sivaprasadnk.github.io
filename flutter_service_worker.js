@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "566cba287dfb58b74165ae84c83f669c",
+  "assets/AssetManifest.json": "97299f14f30a7f9f7e31f62e09734b3a",
 "assets/assets/fonts/Courgette-Regular.ttf": "59c3685a73f0f1b7c302dd2d6dabd628",
 "assets/assets/fonts/Gugi-Regular.ttf": "c9e52a059afc82ec754b631fde8ad987",
 "assets/assets/fonts/PatuaOne-Regular.ttf": "53290205673345c24884f0eac68f3b74",
@@ -26,6 +26,7 @@ const RESOURCES = {
 "assets/assets/lotties/success.json": "324854e9301dc1edee1ccd87127d403d",
 "assets/assets/svg/facebook_1.svg": "e39f66046aa444abeedc54602a6d2944",
 "assets/assets/svg/facebook_2.svg": "04dd28cc4ae2e324b8fd5ba79cda261f",
+"assets/assets/svg/instagram_1.png": "6a223be08541c86ea36ec1e61f0f01d0",
 "assets/assets/svg/instagram_1.svg": "9749c0be10c90f618efaaa9483a503d4",
 "assets/assets/svg/linkedin_1.svg": "3b7b5dada6c060f7b8ebb005ee4878fc",
 "assets/assets/svg/telegram_1.svg": "068d75c4f3f3bb8f5f39ba52e5136fd3",
@@ -37,9 +38,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "de75f75ec76fa64e19929550efccd6a8",
-"/": "de75f75ec76fa64e19929550efccd6a8",
-"main.dart.js": "585013787daa4ad922fdc65480996cd3",
+"index.html": "cb14a5950f634c031d293c1d2e049d52",
+"/": "cb14a5950f634c031d293c1d2e049d52",
+"main.dart.js": "299f4afe8c86da63388015055df8fe6b",
 "manifest.json": "c5f77348de3d65f8126c73b9bce93f8c",
 "version.json": "ecbaabfffdf2314297fcf6fb6e9d7ca8"
 };
