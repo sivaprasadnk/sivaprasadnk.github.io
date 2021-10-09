@@ -59380,7 +59380,7 @@ K:function(a,b){var s
 U.avp(new L.ia("assets/images/propic3.jpg",null,null),b)
 s=t.V
 s=H.a([T.aeK(new N.oQ(H.a([],t.fx),new P.b4(s)),t.xm),T.aeK(new K.rL(new P.b4(s)),t.gS)],t.ms)
-return Y.apL(new S.u4(P.aw(["/",new F.Vh(),"/AndroidHome",new F.Vi(),"/WindowsHome",new F.Vj(),"/IosHome",new F.Vk(),"/MacOsHome",new F.Vl()],t.N,t.hw),"Sivaprasad NK",!1,null),s)}}
+return Y.apL(new S.u4(P.aw(["/",new F.Vh(),"/AndroidHome",new F.Vi(),"/Home",new F.Vj(),"/IosHome",new F.Vk(),"/Home",new F.Vl()],t.N,t.hw),"Sivaprasad NK",!1,null),s)}}
 F.Vh.prototype={
 $1:function(a){return new F.mx(null)},
 $S:367}
@@ -59417,10 +59417,10 @@ K.Vx(s,"/IosHome",r,r)}else{s=this.a
 r=t.X
 if(U.dy()===C.E){s=s.c
 s.toString
-K.Vx(s,"/MacOsHome",r,r)}else{D.l1().$1("...@ hereee2")
+K.Vx(s,"/Home",r,r)}else{D.l1().$1("...@ hereee2")
 s=s.c
 s.toString
-K.Vx(s,"/WindowsHome",r,r)}}},
+K.Vx(s,"/Home",r,r)}}},
 $S:2}
 F.zc.prototype={
 aB:function(){this.bc()
