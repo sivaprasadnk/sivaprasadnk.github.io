@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7fd25f1526478b2d81e4035c04f949d0",
+  "assets/AssetManifest.json": "1bb6bd2619ce081dbfe1d2e1331876b3",
 "assets/assets/fonts/Courgette-Regular.ttf": "59c3685a73f0f1b7c302dd2d6dabd628",
 "assets/assets/fonts/Gugi-Regular.ttf": "c9e52a059afc82ec754b631fde8ad987",
 "assets/assets/fonts/PatuaOne-Regular.ttf": "53290205673345c24884f0eac68f3b74",
@@ -12,6 +12,7 @@ const RESOURCES = {
 "assets/assets/images/greentick.json": "55574dccf524f233580a6e8d0dd41335",
 "assets/assets/images/instagram.png": "4a8c23476a7c20c5bee2a752a6f96e9e",
 "assets/assets/images/linkedin.png": "30c453b7f5fbdb09ea0cb42a5dc7a6e5",
+"assets/assets/images/profile-pic.png": "72f90ba39e97e655b85538682fbb4bd8",
 "assets/assets/images/propic.jpg": "305d34fb0c4330319dd229bbfa80980e",
 "assets/assets/images/propic1.jpg": "305d34fb0c4330319dd229bbfa80980e",
 "assets/assets/images/propic2.jpg": "8c6411797d21b671a2585421893d6ed4",
@@ -19,6 +20,7 @@ const RESOURCES = {
 "assets/assets/images/propic4.jpg": "83dfd2d15e6db0f516c469e79b004864",
 "assets/assets/images/spquotes.jpeg": "bf01c431758d4a06f9f94eb096f30468",
 "assets/assets/images/whatsapp.png": "fc601ba58f923366416bd69b8be6cca4",
+"assets/assets/lotties/congrats.json": "8548414b64b30e977b48fae293b4f9e7",
 "assets/assets/lotties/feedback.json": "5c8b7bf954f36495bbafb4b12c497a84",
 "assets/assets/lotties/loading.json": "a8484818735d2511604f84c6e3a47fdc",
 "assets/assets/lotties/network-error.json": "93be19a200d0f5696f94f926b9f8b83a",
@@ -32,14 +34,14 @@ const RESOURCES = {
 "assets/assets/svg/whatsapp_1.svg": "5042039fd0a06b7e17f062345977658f",
 "assets/FontManifest.json": "274082ea47de19ca06c786d9fbd28c62",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "7f1d64fa395c2f44562e8c98e96d9dd8",
+"assets/NOTICES": "d2a8d9d20e2a3c9976ee060fe565f544",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "0b53d2486478e68fda20101a2f458203",
-"/": "0b53d2486478e68fda20101a2f458203",
-"main.dart.js": "2f39b5f8a44e82ee4f830636222fd640",
+"index.html": "3a932b0cca126e28f9a63baa9dd7b2b7",
+"/": "3a932b0cca126e28f9a63baa9dd7b2b7",
+"main.dart.js": "e9e992a1d4a7f74653477e5f19a5a14a",
 "manifest.json": "c5f77348de3d65f8126c73b9bce93f8c",
 "version.json": "ecbaabfffdf2314297fcf6fb6e9d7ca8"
 };
