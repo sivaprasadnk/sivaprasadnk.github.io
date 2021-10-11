@@ -59851,7 +59851,7 @@ P.dn(P.aX(0,0,1),p,s).aY(0,new S.a4K(q),r)
 P.dn(P.aX(0,0,2),p,s).aY(0,new S.a4L(q),r)},
 G:function(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e=b.P(t.w).f,d=K.a0A(Y.WZ(b,t.gS).a,b),c=Z.R3(new G.oj(f))
 e=e.a.b
-s=T.aq(f,e*0.8,f)
+s=T.aq(f,e*0.08,f)
 r=g.cx
 r=(r==null?H.d(H.n("showImage")):r)?1:0
 q=P.aX(0,900,0)
