@@ -59849,30 +59849,33 @@ s=t.z
 r=t.P
 P.dn(P.aX(0,0,1),p,s).aY(0,new S.a4K(q),r)
 P.dn(P.aX(0,0,2),p,s).aY(0,new S.a4L(q),r)},
-G:function(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=b.P(t.w).f,e=K.a0A(Y.WZ(b,t.gS).a,b),d=Z.R3(new G.oj(g)),c=h.cy
-if(c==null)c=h.cy=!1
-s=h.cx
-s=(s==null?H.d(H.n("showImage")):s)?1:0
-r=P.aX(0,900,0)
-s=G.r5(M.aM(g,K.aaM(new L.jy("assets/images/propic3.jpg",g,g),100),C.k,g,g,g,g,g,g,g,g,g,g),r,s)
-r=U.zC(C.z)
-q=T.aq(g,20,g)
-p=h.y
-p=N.afq(D.bf(g,M.aM(g,p==null?H.d(H.n("fbPng")):p,C.k,g,g,g,g,g,g,g,g,g,g),C.t,!1,g,g,g,g,g,g,g,g,g,g,g,g,new S.a4D(),g,g,g,g,g,g))
-o=T.aq(g,g,15)
-n=h.Q
-if(n==null)n=H.d(H.n("instaPng"))
-n=N.RX(D.bf(g,n,C.t,!1,g,g,g,g,g,g,g,g,g,g,g,g,new S.a4E(),g,g,g,g,g,g))
-m=T.aq(g,g,15)
-l=h.z
-if(l==null)l=H.d(H.n("waPng"))
-l=N.RX(D.bf(g,l,C.t,!1,g,g,g,g,g,g,g,g,g,g,g,g,new S.a4F(),g,g,g,g,g,g))
-k=T.aq(g,g,15)
-j=h.ch
-if(j==null)j=H.d(H.n("linkedInPng"))
-i=t.p
-f=T.aq(T.d0(H.a([new T.eW(new S.a4G(),g),new U.kh(c,g),new R.mw(g),s,r,q,T.mi(H.a([p,o,n,m,l,k,N.afr(D.bf(g,j,C.t,!1,g,g,g,g,g,g,g,g,g,g,g,g,new S.a4H(),g,g,g,g,g,g))],i),C.ap,C.ck),T.aq(g,50,g)],i),C.a8,C.V,C.d3),f.a.b,g)
-return M.p3(g,e.rx,f,d)}}
+G:function(a,a0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d=a0.P(t.w).f,c=K.a0A(Y.WZ(a0,t.gS).a,a0),b=Z.R3(new G.oj(e))
+d=d.a.b
+s=T.aq(e,d*0.8,e)
+r=f.cy
+if(r==null)r=f.cy=!1
+q=f.cx
+q=(q==null?H.d(H.n("showImage")):q)?1:0
+p=P.aX(0,900,0)
+q=G.r5(M.aM(e,K.aaM(new L.jy("assets/images/propic3.jpg",e,e),100),C.k,e,e,e,e,e,e,e,e,e,e),p,q)
+p=U.zC(C.z)
+o=T.aq(e,20,e)
+n=f.y
+n=N.afq(D.bf(e,M.aM(e,n==null?H.d(H.n("fbPng")):n,C.k,e,e,e,e,e,e,e,e,e,e),C.t,!1,e,e,e,e,e,e,e,e,e,e,e,e,new S.a4D(),e,e,e,e,e,e))
+m=T.aq(e,e,15)
+l=f.Q
+if(l==null)l=H.d(H.n("instaPng"))
+l=N.RX(D.bf(e,l,C.t,!1,e,e,e,e,e,e,e,e,e,e,e,e,new S.a4E(),e,e,e,e,e,e))
+k=T.aq(e,e,15)
+j=f.z
+if(j==null)j=H.d(H.n("waPng"))
+j=N.RX(D.bf(e,j,C.t,!1,e,e,e,e,e,e,e,e,e,e,e,e,new S.a4F(),e,e,e,e,e,e))
+i=T.aq(e,e,15)
+h=f.ch
+if(h==null)h=H.d(H.n("linkedInPng"))
+g=t.p
+d=T.aq(T.d0(H.a([s,new T.eW(new S.a4G(),e),new U.kh(r,e),new R.mw(e),q,p,o,T.mi(H.a([n,m,l,k,j,i,N.afr(D.bf(e,h,C.t,!1,e,e,e,e,e,e,e,e,e,e,e,e,new S.a4H(),e,e,e,e,e,e))],g),C.ap,C.ck),T.aq(e,50,e)],g),C.a8,C.V,C.d3),d,e)
+return M.p3(e,c.rx,d,b)}}
 S.a4K.prototype={
 $1:function(a){var s=this.a
 s.ad(new S.a4J(s))},
@@ -63089,8 +63092,8 @@ C.pN=new P.aB(-38e3)
 C.aB=new V.b_(0,0,0,0)
 C.dV=new V.b_(15,25,0,0)
 C.ju=new V.b_(16,0,16,0)
+C.pO=new V.b_(20,0,0,0)
 C.fz=new V.b_(20,20,20,20)
-C.pO=new V.b_(20,70,0,0)
 C.pP=new V.b_(24,0,24,0)
 C.pQ=new V.b_(25,25,25,25)
 C.fA=new V.b_(38,38,38,38)
