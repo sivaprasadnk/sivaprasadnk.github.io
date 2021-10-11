@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ac3925a9a03403868d5bd333ded87f24",
+  "assets/AssetManifest.json": "700e7cb98d878b7e6d80f2a4ebc90bbf",
 "assets/assets/fonts/Courgette-Regular.ttf": "59c3685a73f0f1b7c302dd2d6dabd628",
 "assets/assets/fonts/Gugi-Regular.ttf": "c9e52a059afc82ec754b631fde8ad987",
 "assets/assets/fonts/PatuaOne-Regular.ttf": "53290205673345c24884f0eac68f3b74",
 "assets/assets/fonts/Vollkorn-Italic-VariableFont_wght.ttf": "cf6621540a829faa7ddafe6ed8d70e8d",
 "assets/assets/images/facebook.png": "61a96c78b48018b48fbb6254a93b93f8",
 "assets/assets/images/greentick.json": "55574dccf524f233580a6e8d0dd41335",
+"assets/assets/images/icon.png": "72f90ba39e97e655b85538682fbb4bd8",
 "assets/assets/images/instagram.png": "4a8c23476a7c20c5bee2a752a6f96e9e",
 "assets/assets/images/linkedin.png": "30c453b7f5fbdb09ea0cb42a5dc7a6e5",
 "assets/assets/images/profile-pic.png": "72f90ba39e97e655b85538682fbb4bd8",
@@ -34,13 +35,13 @@ const RESOURCES = {
 "assets/assets/svg/whatsapp_1.svg": "5042039fd0a06b7e17f062345977658f",
 "assets/FontManifest.json": "274082ea47de19ca06c786d9fbd28c62",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "d2a8d9d20e2a3c9976ee060fe565f544",
+"assets/NOTICES": "f79564f3e3a3882c3a5a91fce32b1da1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "da73daf0740ec7627901c85362790296",
-"/": "da73daf0740ec7627901c85362790296",
+"index.html": "c3f9201dedc3e5cee1bb711a8fc44c52",
+"/": "c3f9201dedc3e5cee1bb711a8fc44c52",
 "main.dart.js": "ea00b459e6be76e79679669385688ce1",
 "manifest.json": "c5f77348de3d65f8126c73b9bce93f8c",
 "version.json": "ecbaabfffdf2314297fcf6fb6e9d7ca8"
