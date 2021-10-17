@@ -59642,7 +59642,7 @@ o=P.b0(0,900,0)
 o=T.v2(0,G.ns(new T.c1(C.Q,p,p,T.lq(M.aq(p,p,C.k,p,p,p,p,p,p,p,p,p,p),p,p,new O.DE(p),C.L),p),o,1),0,0)
 s=q.a.c
 r=t.p
-return T.e_(C.aq,H.a([o,E.ahj(M.aq(p,T.cC(H.a([new T.aR(new V.ax(0,40,0,0),new T.c1(C.eX,p,p,B.abE(L.hu(C.cT,C.j),new O.a2r(b),p),p),p),new T.aR(new V.ax(30,0,0,0),L.bf("Contact Me",p,p,p,p,p,A.aJ(p,p,C.j,p,p,p,p,p,"PlayfairDisplay",p,p,35,p,C.N,p,p,!0,p,p,p,p,p,p,p),p,p,p),p),T.av(p,q.a.c*0.05,p),D.abU(q.nL(new O.a2s(q)),8,C.jk,new L.oK(p),C.bA,C.c3,!0)],r),C.ac,C.V,C.bc),C.k,p,p,p,p,s+100,p,p,p,p,p),new L.oK(p))],r),C.al,p)},
+return T.e_(C.aq,H.a([o,E.ahj(M.aq(p,T.cC(H.a([new T.aR(new V.ax(0,20,0,0),new T.c1(C.eX,p,p,B.abE(L.hu(C.cT,C.j),new O.a2r(b),p),p),p),new T.aR(new V.ax(30,0,0,0),L.bf("Contact Me",p,p,p,p,p,A.aJ(p,p,C.j,p,p,p,p,p,"PlayfairDisplay",p,p,35,p,C.N,p,p,!0,p,p,p,p,p,p,p),p,p,p),p),T.av(p,q.a.c*0.05,p),D.abU(q.nL(new O.a2s(q)),8,C.jk,new L.oK(p),C.bA,C.c3,!0)],r),C.ac,C.V,C.bc),C.k,p,p,p,p,s+100,p,p,p,p,p),new L.oK(p))],r),C.al,p)},
 nL:function(a){return new O.a2m(C.ah,a)}}
 O.a2r.prototype={
 $0:function(){var s=Y.dH(this.a,!1,t.c)
@@ -59739,10 +59739,10 @@ m=H.a([],n)
 l=q==="Home"
 if(l){k=!p?1:0
 j=P.b0(0,900,0)
-m.push(T.v2(0,G.ns(new T.c1(C.Q,i,i,T.lq(M.aq(i,i,C.k,i,i,i,i,i,i,i,i,i,i),i,i,new O.DC(i),C.L),i),j,k),0,0))}if(l&&!p)m.push(T.v2(g.b*0.15,new T.c1(C.ir,i,i,new U.ED(s*0.3,i),i),0,0))
+m.push(T.v2(0,G.ns(new T.c1(C.Q,i,i,T.lq(M.aq(i,i,C.k,i,i,i,i,i,i,i,i,i,i),i,i,new O.DC(i),C.L),i),j,k),0,0))}if(l&&!p)m.push(T.v2(g.b*0.1,new T.c1(C.ir,i,i,new U.ED(s*0.3,i),i),0,0))
 if(!p)if(l){h=g.b
-r=T.av(T.kn(H.a([new T.aR(new V.ax(0,50,20,0),B.abE(L.hu(C.cT,C.j),new O.a2t(b),i),i)],n),C.a8,C.h5,C.Y),i,i)
-l=T.av(i,h*0.1,i)
+r=T.av(T.kn(H.a([new T.aR(new V.ax(0,20,20,0),B.abE(L.hu(C.cT,C.j),new O.a2t(b),i),i)],n),C.a8,C.h5,C.Y),i,i)
+l=T.av(i,h*0.05,i)
 k=s*0.1
 j=M.aq(i,T.afQ(L.bf("Hi, \nI 'm Sivaprasad NK .",i,i,i,i,i,A.aJ(i,i,C.j,i,i,i,i,i,"PlayfairDisplay",i,i,40,i,C.N,i,i,!0,i,i,i,i,i,i,i),i,i,i)),C.k,i,i,i,i,i,i,i,i,i,s*0.7)
 h=M.aq(i,T.e_(C.aq,H.a([T.cC(H.a([r,l,new T.aR(new V.ax(k,0,0,0),new N.Cg(j,i),i),new T.aR(new V.ax(k,0,0,0),N.abt(M.aq(i,L.bf("\nFlutter Developer from \nTripunithura, Kerala .",i,i,i,i,i,A.aJ(i,i,C.j,i,i,i,i,i,i,i,i,23,i,C.N,i,i,!0,i,i,i,i,i,i,i),i,i,i),C.k,i,i,i,i,i,i,i,i,i,i)),i),new R.kB(i)],n),C.ac,C.V,C.Y)],n),C.al,i),C.k,i,i,i,i,h,i,i,i,i,i)}else if(q==="ContactMe")h=new O.rb(b.U(h).f.a.b,i)
@@ -59844,7 +59844,7 @@ o=P.b0(0,900,0)
 o=T.v2(0,G.ns(new T.c1(C.Q,q,q,T.lq(M.aq(q,q,C.k,q,q,q,q,q,q,q,q,q,q),q,q,new T.DD(q),C.L),q),o,1),0,0)
 s=this.a.c
 r=t.p
-return T.e_(C.aq,H.a([o,E.ahj(M.aq(q,T.cC(H.a([new T.aR(new V.ax(0,40,0,0),new T.c1(C.eX,q,q,B.abE(L.hu(C.cT,C.j),new T.a2B(b),q),q),q),new T.aR(new V.ax(30,0,0,0),L.bf("My Projects",q,q,q,q,q,A.aJ(q,q,C.j,q,q,q,q,q,"PlayfairDisplay",q,q,35,q,C.N,q,q,!0,q,q,q,q,q,q,q),q,q,q),q),T.av(q,this.a.c*0.1,q),D.abU(this.nL(new T.a2C(p.a.a)),6,C.ah,new L.oK(q),C.bA,C.c3,!0),new R.kB(q)],r),C.ac,C.V,C.bc),C.k,q,q,q,q,s,q,q,q,q,q),q)],r),C.al,q)},
+return T.e_(C.aq,H.a([o,E.ahj(M.aq(q,T.cC(H.a([new T.aR(new V.ax(0,20,0,0),new T.c1(C.eX,q,q,B.abE(L.hu(C.cT,C.j),new T.a2B(b),q),q),q),new T.aR(new V.ax(30,0,0,0),L.bf("My Projects",q,q,q,q,q,A.aJ(q,q,C.j,q,q,q,q,q,"PlayfairDisplay",q,q,35,q,C.N,q,q,!0,q,q,q,q,q,q,q),q,q,q),q),T.av(q,this.a.c*0.1,q),D.abU(this.nL(new T.a2C(p.a.a)),6,C.ah,new L.oK(q),C.bA,C.c3,!0),new R.kB(q)],r),C.ac,C.V,C.bc),C.k,q,q,q,q,s,q,q,q,q,q),q)],r),C.al,q)},
 nL:function(a){return new T.a2A(C.ah,a)}}
 T.a2B.prototype={
 $0:function(){var s=Y.dH(this.a,!1,t.c)
