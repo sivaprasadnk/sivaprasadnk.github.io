@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ebedade740ea2aa88185cd37d15e5469",
+  "assets/AssetManifest.json": "b7f14506a24603e50db2c72250b5bd39",
 "assets/assets/fonts/Courgette-Regular.ttf": "59c3685a73f0f1b7c302dd2d6dabd628",
 "assets/assets/fonts/Gugi-Regular.ttf": "c9e52a059afc82ec754b631fde8ad987",
 "assets/assets/fonts/PatuaOne-Regular.ttf": "53290205673345c24884f0eac68f3b74",
@@ -48,6 +48,7 @@ const RESOURCES = {
 "assets/assets/lotties/network-error.json": "93be19a200d0f5696f94f926b9f8b83a",
 "assets/assets/lotties/success.json": "324854e9301dc1edee1ccd87127d403d",
 "assets/assets/lotties/tree.json": "d2d8d8ede17559c5de97d251c974a3a8",
+"assets/assets/lotties/xmas.json": "9213d75257ba1a19c569643aa06581e0",
 "assets/assets/svg/facebook_1.svg": "e39f66046aa444abeedc54602a6d2944",
 "assets/assets/svg/facebook_2.svg": "04dd28cc4ae2e324b8fd5ba79cda261f",
 "assets/assets/svg/instagram_1.png": "6a223be08541c86ea36ec1e61f0f01d0",
@@ -62,9 +63,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "543986912e12d474c3504c8c80efa800",
-"/": "543986912e12d474c3504c8c80efa800",
-"main.dart.js": "e774b6828fef17178fa832843a0aac9b",
+"index.html": "d331558ef6d697587b742660946754e0",
+"/": "d331558ef6d697587b742660946754e0",
+"main.dart.js": "9ade2ba5652ac3847dfd3c6f3ea3ff83",
 "manifest.json": "c5f77348de3d65f8126c73b9bce93f8c",
 "version.json": "ecbaabfffdf2314297fcf6fb6e9d7ca8"
 };
