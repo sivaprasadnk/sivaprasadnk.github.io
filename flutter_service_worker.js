@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b7f14506a24603e50db2c72250b5bd39",
+  "assets/AssetManifest.json": "8468f36516a8cac155b0054c2dff790b",
 "assets/assets/fonts/Courgette-Regular.ttf": "59c3685a73f0f1b7c302dd2d6dabd628",
 "assets/assets/fonts/Gugi-Regular.ttf": "c9e52a059afc82ec754b631fde8ad987",
 "assets/assets/fonts/PatuaOne-Regular.ttf": "53290205673345c24884f0eac68f3b74",
@@ -40,6 +40,7 @@ const RESOURCES = {
 "assets/assets/images/spquotes.jpeg": "bf01c431758d4a06f9f94eb096f30468",
 "assets/assets/images/star.png": "df4d95a46f709947bac0d48930cd31fb",
 "assets/assets/images/whatsapp.png": "fc601ba58f923366416bd69b8be6cca4",
+"assets/assets/images/wishText.png": "c4613129d3327769fe1ab455abc7d6dd",
 "assets/assets/images/xmas_tree.png": "1342d131331c1f553d26252725f11e21",
 "assets/assets/images/xmas_tree1.png": "14151ad56a3c779ef82fbe5df1de38ed",
 "assets/assets/lotties/congrats.json": "8548414b64b30e977b48fae293b4f9e7",
@@ -63,9 +64,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "c4038047629f227e4d5c06e7e16e7ffd",
-"/": "c4038047629f227e4d5c06e7e16e7ffd",
-"main.dart.js": "29030201cd87dd5fc488cb8a9c773322",
+"index.html": "e6c5ddb3491a5f970135586ec85c7f3d",
+"/": "e6c5ddb3491a5f970135586ec85c7f3d",
+"main.dart.js": "a3a5c0cd12180f02c1e4d3f7096e5ac5",
 "manifest.json": "c5f77348de3d65f8126c73b9bce93f8c",
 "version.json": "ecbaabfffdf2314297fcf6fb6e9d7ca8"
 };
