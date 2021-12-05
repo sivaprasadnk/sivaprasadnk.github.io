@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "9958efc5e0070caeb63b9cac303734bf",
+  "assets/AssetManifest.json": "50c24e4d8878609cc37c5ce9c9104e3f",
 "assets/assets/fonts/Courgette-Regular.ttf": "59c3685a73f0f1b7c302dd2d6dabd628",
 "assets/assets/fonts/Gugi-Regular.ttf": "c9e52a059afc82ec754b631fde8ad987",
 "assets/assets/fonts/PatuaOne-Regular.ttf": "53290205673345c24884f0eac68f3b74",
@@ -15,10 +15,14 @@ const RESOURCES = {
 "assets/assets/images/ball3.png": "322fcfecdaf0a3f5cac0a0e725744dc4",
 "assets/assets/images/ball4.png": "4d665605b64e31fdf82ca55363dea790",
 "assets/assets/images/board.png": "87738717224cef04d3444ee21c716ca7",
+"assets/assets/images/board2.png": "7a31c37912abbe4017e4d003c0847cb4",
+"assets/assets/images/board3.png": "970ecc267d37bf2813b70a1ee0d93b26",
+"assets/assets/images/board4.png": "b078b2e9044e5b29ef44cfeb896192c8",
 "assets/assets/images/contact_me_board.png": "f0a1203868ae254170d191a1b2aeb904",
 "assets/assets/images/contact_me_icon.png": "fb7deb57d3571e788fd62f2e231ee9ef",
 "assets/assets/images/exp_icon.png": "493d26849e047df3499d382ba6c82c8c",
 "assets/assets/images/facebook.png": "61a96c78b48018b48fbb6254a93b93f8",
+"assets/assets/images/flutter_board.png": "92afcb32d08ec488bb2cfe83cadcf2e4",
 "assets/assets/images/google-play.png": "dc6d34239efe6e011b684db3a8376c9b",
 "assets/assets/images/greentick.json": "55574dccf524f233580a6e8d0dd41335",
 "assets/assets/images/hangings.png": "32d40af187998a5a08e614c4ce94b81e",
@@ -27,6 +31,7 @@ const RESOURCES = {
 "assets/assets/images/image2.jpg": "c2c89a5a9739d935d8d32c9fc9787cf9",
 "assets/assets/images/image3.jpg": "6ffd10385faa8a4bbc28dd660b11d074",
 "assets/assets/images/instagram.png": "4a8c23476a7c20c5bee2a752a6f96e9e",
+"assets/assets/images/java_board.png": "68001e62a2227c373e3a591e911a62d7",
 "assets/assets/images/linkedin.png": "30c453b7f5fbdb09ea0cb42a5dc7a6e5",
 "assets/assets/images/profile-pic.png": "72f90ba39e97e655b85538682fbb4bd8",
 "assets/assets/images/propic.jpg": "305d34fb0c4330319dd229bbfa80980e",
@@ -70,9 +75,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "67085f4a3599aadfdfa36ede76408765",
-"/": "67085f4a3599aadfdfa36ede76408765",
-"main.dart.js": "e235cc424bd55e248a2aa6161d578a00",
+"index.html": "665fbabb6fb8157ef1185f8bc50cd382",
+"/": "665fbabb6fb8157ef1185f8bc50cd382",
+"main.dart.js": "1010e3bc43281f24b129d10525ef60b5",
 "manifest.json": "c5f77348de3d65f8126c73b9bce93f8c",
 "version.json": "ecbaabfffdf2314297fcf6fb6e9d7ca8"
 };
