@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c6b2bc42d88f1dd41b670ffa560b0d42",
+  "assets/AssetManifest.json": "63dbf74aa2603534a20910216c9a1f76",
 "assets/assets/fonts/Courgette-Regular.ttf": "59c3685a73f0f1b7c302dd2d6dabd628",
 "assets/assets/fonts/Gugi-Regular.ttf": "c9e52a059afc82ec754b631fde8ad987",
 "assets/assets/fonts/PatuaOne-Regular.ttf": "53290205673345c24884f0eac68f3b74",
@@ -32,6 +32,7 @@ const RESOURCES = {
 "assets/assets/images/propic3.jpg": "672618b77912ae0392cc5e728a4d5ba7",
 "assets/assets/images/propic3.png": "11cf43083c086a6822d0d71a849a78d7",
 "assets/assets/images/propic4.jpg": "83dfd2d15e6db0f516c469e79b004864",
+"assets/assets/images/propiccc.png": "cd5e09e69ec9e3e6cf6c406f9021d261",
 "assets/assets/images/quizApp/screen1.png": "7f5999b1b06980d86f2798a131476125",
 "assets/assets/images/quizApp/screen2.png": "efecfdd4154bf72f2300792b643616d9",
 "assets/assets/images/quizApp/screen3.png": "4ee4783a2c333bfddec210f619fceab7",
@@ -62,6 +63,10 @@ const RESOURCES = {
 "assets/assets/lotties/tree.json": "d2d8d8ede17559c5de97d251c974a3a8",
 "assets/assets/lotties/work.json": "8f8cc664f6bf737bbcd573fe8229580e",
 "assets/assets/lotties/xmas.json": "9213d75257ba1a19c569643aa06581e0",
+"assets/assets/svg/blob1.svg": "433bc2cb4f7132d9612cc18551a2be08",
+"assets/assets/svg/blob2.svg": "401c1754be3453b85d23a91425ddd304",
+"assets/assets/svg/blob3.svg": "3bff0b40aa1600792f3aa80aa58ba2c7",
+"assets/assets/svg/blob4.svg": "c25aa692b8419c9fe9d157122c7d808e",
 "assets/assets/svg/facebook_1.svg": "e39f66046aa444abeedc54602a6d2944",
 "assets/assets/svg/facebook_2.svg": "04dd28cc4ae2e324b8fd5ba79cda261f",
 "assets/assets/svg/instagram_1.png": "6a223be08541c86ea36ec1e61f0f01d0",
@@ -71,7 +76,7 @@ const RESOURCES = {
 "assets/assets/svg/whatsapp_1.svg": "5042039fd0a06b7e17f062345977658f",
 "assets/FontManifest.json": "49364f2954c1adf4a9fa1a4576e29b65",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "07ffee33c2f80e5a162f40ffd307dd59",
+"assets/NOTICES": "9180520194de9e9b8fc2e30a2bdff141",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
 "canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
@@ -80,9 +85,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "3d1525d411ec60912363038316398b19",
-"/": "3d1525d411ec60912363038316398b19",
-"main.dart.js": "029ba75217814f15a89eeda300b5846a",
+"index.html": "2ea124660799b6df7e001806cecc7995",
+"/": "2ea124660799b6df7e001806cecc7995",
+"main.dart.js": "eddcf23f0cb120d18fb893ad57f5d1d2",
 "manifest.json": "c5f77348de3d65f8126c73b9bce93f8c",
 "version.json": "5f96fc1e25eaa46bce39acfde46493d7"
 };
