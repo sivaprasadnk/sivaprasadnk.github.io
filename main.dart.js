@@ -62664,7 +62664,7 @@ A(a,b){var s=null,r=this.c,q=A.a7(" Made with ",s,s,s,s,s,A.V(s,s,B.E,s,s,s,s,s,
 return A.f6(0,new A.bT(B.ug,s,s,A.aV(A.a([q,A.aje(A.bV(B.i7,B.dx),p,20,B.E,!0,o,!1),A.a7(" in ",s,s,s,s,s,A.V(s,s,B.E,s,s,s,s,s,s,s,s,r,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),A.uy(r,B.bm),A.a7(" Flutter  ",s,s,s,s,s,A.V(s,s,B.E,s,s,s,s,s,s,s,s,r,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)],t.p),B.x,B.nt,B.o),s),0,0,0)}}
 A.BX.prototype={
 A(a,b){var s=null,r=this.c,q=A.a7(" Made with ",s,s,s,s,s,A.V(s,s,B.E,s,s,s,s,s,s,s,s,r,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),p=A.ae(0,2000,0),o=A.ae(0,100,0)
-return A.f6(20,new A.bT(B.hb,s,s,A.ak0(!0,A.aV(A.a([q,A.aje(A.bV(B.i7,B.dx),p,20,B.E,!0,o,!1),A.a7(" in ",s,s,s,s,s,A.V(s,s,B.E,s,s,s,s,s,s,s,s,r,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),A.uy(r,B.bm),A.a7(" Flutter  ",s,s,s,s,s,A.V(s,s,B.E,s,s,s,s,s,s,s,s,r,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)],t.p),B.x,B.ck,B.o),s,B.t,B.eF,100,!1),s),0,0,0)}}
+return A.f6(5,new A.bT(B.hb,s,s,A.ak0(!0,A.aV(A.a([q,A.aje(A.bV(B.i7,B.dx),p,20,B.E,!0,o,!1),A.a7(" in ",s,s,s,s,s,A.V(s,s,B.E,s,s,s,s,s,s,s,s,r,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),A.uy(r,B.bm),A.a7(" Flutter  ",s,s,s,s,s,A.V(s,s,B.E,s,s,s,s,s,s,s,s,r,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)],t.p),B.x,B.ck,B.o),s,B.t,B.eF,100,!1),s),0,0,0)}}
 A.qK.prototype={
 A(a,b){var s=null
 return A.f6(12,new A.bT(B.uh,s,s,A.a7("Copyright \xa9 2022 Sivaprasad NK .",s,s,s,s,s,A.V(s,s,B.E,s,s,s,s,s,s,s,s,this.c,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),s),10,0,0)}}
