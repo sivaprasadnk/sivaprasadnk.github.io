@@ -66285,8 +66285,8 @@ $S:0}
 A.wT.prototype={
 w(a,b){return A.dx(B.W,A.a([A.amB("assets/lotties/blob.json",280),new A.av(B.Ao,A.f0(B.aa,new A.f_("assets/images/propic3.png",null,null),95),null)],t.p),B.V)}}
 A.on.prototype={
-w(a,b){var s=t.w,r=b.O(s).f,q=b.O(s).f
-return A.fd(0,new A.cT(B.d4,null,null,A.e2("assets/images/dash/"+this.c+".png",b.O(s).f.a.b*0.18),null),0,-q.a.a*0.1,r.a.b*0.16)}}
+w(a,b){var s=t.w,r=b.O(s).f
+return A.fd(0,new A.cT(B.d4,null,null,A.e2("assets/images/dash/"+this.c+".png",b.O(s).f.a.b*0.18),null),0,-22,r.a.b*0.16)}}
 A.tv.prototype={
 a_(){return new A.Lc(B.l)}}
 A.Lc.prototype={
