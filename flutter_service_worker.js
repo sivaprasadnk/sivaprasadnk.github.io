@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "716e0987c7b70420e4088e041b0594d2",
+  "assets/AssetManifest.json": "74ac90a8760ce28df51ebf98298a535c",
 "assets/assets/fonts/Courgette-Regular.ttf": "59c3685a73f0f1b7c302dd2d6dabd628",
 "assets/assets/fonts/Gugi-Regular.ttf": "c9e52a059afc82ec754b631fde8ad987",
 "assets/assets/fonts/PatuaOne-Regular.ttf": "53290205673345c24884f0eac68f3b74",
@@ -38,6 +38,7 @@ const RESOURCES = {
 "assets/assets/images/website/screen.png": "d3b70e84ca729d603815134a65d8305c",
 "assets/assets/images/website/screen2.jpg": "fa66be9bfdd95dc25c253bd2b0f7f7f8",
 "assets/assets/images/website/screen3.png": "7179762bf51deb83b5645b29efcd8982",
+"assets/assets/images/website/screen4.png": "9ade3ecfc7948f58415f713bdcc714a2",
 "assets/assets/lotties/astronaut-laptop.json": "dd11b7c0d305b8da5f1c186aa98d089f",
 "assets/assets/lotties/blob.json": "80a66d660631ee601dbb8fb529d4970c",
 "assets/assets/lotties/congrats.json": "8548414b64b30e977b48fae293b4f9e7",
@@ -89,11 +90,11 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "fa10dba1529b87606221756351d154a4",
-"/": "fa10dba1529b87606221756351d154a4",
-"main.dart.js": "5db2a755e49fa1a0e3db65668e5768cb",
+"index.html": "83993f817dd99a341cf58d732e879218",
+"/": "83993f817dd99a341cf58d732e879218",
+"main.dart.js": "5024f25d58fbc2813f393d05c1bc03c3",
 "manifest.json": "c5f77348de3d65f8126c73b9bce93f8c",
-"version.json": "0184f569af608034c63035a85f50924b"
+"version.json": "c30828c99197ec7df5abb693c74ab44f"
 };
 
 // The application shell files that are downloaded before a service worker can
