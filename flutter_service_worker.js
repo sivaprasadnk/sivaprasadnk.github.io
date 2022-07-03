@@ -93,11 +93,11 @@ const RESOURCES = {
 "icons/Icon-192.png": "11cf43083c086a6822d0d71a849a78d7",
 "icons/Icon-192a.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "697eed94c2b9f7dae13aaffa42902b36",
-"/": "3704cccdbbc444f810546dd5a80dbfc1",
+"index.html": "2727116b51c22a5633f0005f99198c8f",
+"/": "344406d82a01b94ed443811f2d42773c",
 "main.dart.js": "345eca65dd2da5e6f7b09b631ccb8e2a",
 "manifest.json": "c5f77348de3d65f8126c73b9bce93f8c",
-"privacy-policy/index.html": "3704cccdbbc444f810546dd5a80dbfc1",
+"privacy-policy/index.html": "344406d82a01b94ed443811f2d42773c",
 "privacy-policy/privacy-policy.md": "d41d8cd98f00b204e9800998ecf8427e",
 "version.json": "7adbd5c29281b51f1722fb2e09be415f"
 };
