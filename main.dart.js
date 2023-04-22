@@ -64944,7 +64944,7 @@ q(a){var s,r=null
 A.a_(a)
 s=this.c
 s
-return new A.P(B.aD,A.fX(A.bs(A.a([new A.l_(B.BG,"https://www.facebook.com/sivaprasadnk.official",s,r),B.ld,new A.l_(B.BE,"https://www.instagram.com/sivaprasad_nk/",s,r),B.ld,new A.l_(B.BF,"https://web.whatsapp.com/send?phone=918086028340",s,r),B.ld,new A.l_(B.BD,"https://www.linkedin.com/in/sivaprasadnkofficial/",s,r)],t.p),B.p,B.dh,B.m)),r)}}
+return new A.P(B.aD,A.fX(A.bs(A.a([new A.l_(B.BG,"https://www.facebook.com/sivaprasadnk.official",s,r),B.ld,new A.l_(B.BE,"https://www.instagram.com/sivaprasadnk.dev/",s,r),B.ld,new A.l_(B.BF,"https://web.whatsapp.com/send?phone=918086028340",s,r),B.ld,new A.l_(B.BD,"https://www.linkedin.com/in/sivaprasadnkofficial/",s,r)],t.p),B.p,B.dh,B.m)),r)}}
 A.D8.prototype={
 q(a){return new A.l2(this.c,new A.UD(this),"Contact Me",3,null)}}
 A.UD.prototype={
