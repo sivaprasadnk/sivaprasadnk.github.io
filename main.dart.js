@@ -66850,9 +66850,9 @@ $1(a){var s=null
 switch(a){case 0:return B.Pu
 case 1:return B.B2
 case 2:return B.Pw
-case 3:return B.AZ
-case 4:return B.Py
-case 5:return B.AX
+case 3:return B.AY
+case 4:return B.Px
+case 5:return B.AW
 case 6:return B.Lc}return A.bM(s,s,B.n,s,s,s,s,s,s,s,s,s)},
 $S:416}
 A.a7S.prototype={
@@ -66878,11 +66878,11 @@ switch(a){case 0:return B.Pv
 case 1:return B.B_
 case 2:return B.B1
 case 3:return B.Pz
-case 4:return B.AV
-case 5:return B.AW
-case 6:return B.Px
+case 4:return B.AZ
+case 5:return B.AV
+case 6:return B.Py
 case 7:return B.B0
-case 8:return B.AY}return A.bM(s,s,B.n,s,s,s,s,s,s,s,s,s)},
+case 8:return B.AX}return A.bM(s,s,B.n,s,s,s,s,s,s,s,s,s)},
 $S:62}
 A.a7V.prototype={
 $3(a,b,c){var s=t.Y,r=t.Ni
@@ -67130,7 +67130,7 @@ r=A.fp(A.S(a).k2,5)
 q=t.w
 p=A.au(a,m,q).w
 o=t.p
-p=A.bM(m,A.bH(A.a([A.a6(m,A.au(a,m,q).w.a.b*0.2,m),B.Qt,new A.am(new A.ac(A.au(a,m,q).w.a.a*0.5,A.au(a,m,q).w.a.b*0.1,0,0),A.i5(m,m,m,m,A.bH(A.a([A.aF(" Java, Postgres Programmer",m,m,m,m,m,m,m,s,m,m,m),B.am,A.aW(A.a([r,A.aF("      Bayasys Infotech Pvt Ltd.",m,m,m,m,m,m,m,s,m,m,m)],o),B.p,B.k,B.y),A.aW(A.a([r,A.aF("      07/2019 - 09/2020",m,m,m,m,m,m,m,s,m,m,m)],o),B.p,B.k,B.y)],o),B.u,B.k,B.y)),m),new A.am(new A.ac(A.au(a,m,q).w.a.a*0.5,A.au(a,m,q).w.a.b*0.05,0,0),A.i5(m,m,m,m,A.bH(A.a([A.aF("Flutter Developer",m,m,m,m,m,m,m,s,m,m,m),B.am,A.aW(A.a([r,A.aF("      Indbytes Technologies",m,m,m,m,m,m,m,s,m,m,m)],o),B.p,B.k,B.y),A.aW(A.a([r,A.aF("      12/2020 - 05/2023",m,m,m,m,m,m,m,s,m,m,m)],o),B.p,B.k,B.y)],o),B.u,B.k,B.y)),m),new A.am(new A.ac(A.au(a,m,q).w.a.a*0.5,A.au(a,m,q).w.a.b*0.05,0,0),A.i5(m,m,m,m,A.bH(A.a([A.aF("Senior Mobile app Developer",m,m,m,m,m,m,m,s,m,m,m),B.am,A.aW(A.a([r,A.aF("      Invenics Services India Pvt Ltd",m,m,m,m,m,m,m,s,m,m,m)],o),B.p,B.k,B.y),A.aW(A.a([r,A.aF("      05/2023 - Present",m,m,m,m,m,m,m,s,m,m,m)],o),B.p,B.k,B.y)],o),B.u,B.k,B.y)),m)],o),B.u,B.k,B.r),B.n,m,m,m,m,m,new A.ac(p.a.a*0.02,0,0,0),m,m,m)
+p=A.bM(m,A.bH(A.a([A.a6(m,A.au(a,m,q).w.a.b*0.2,m),B.Qt,new A.am(new A.ac(A.au(a,m,q).w.a.a*0.5,A.au(a,m,q).w.a.b*0.1,0,0),A.i5(m,m,m,m,A.bH(A.a([A.aF(" Java, Postgres Programmer",m,m,m,m,m,m,m,s,m,m,m),B.am,A.aW(A.a([r,A.aF("      Bayasys Infotech Pvt Ltd.",m,m,m,m,m,m,m,s,m,m,m)],o),B.p,B.k,B.y),A.aW(A.a([r,A.aF("      07/2019 - 09/2020",m,m,m,m,m,m,m,s,m,m,m)],o),B.p,B.k,B.y)],o),B.u,B.k,B.y)),m),new A.am(new A.ac(A.au(a,m,q).w.a.a*0.5,A.au(a,m,q).w.a.b*0.05,0,0),A.i5(m,m,m,m,A.bH(A.a([A.aF("Flutter Developer",m,m,m,m,m,m,m,s,m,m,m),B.am,A.aW(A.a([r,A.aF("      Indbytes Technologies Pvt Ltd",m,m,m,m,m,m,m,s,m,m,m)],o),B.p,B.k,B.y),A.aW(A.a([r,A.aF("      12/2020 - 05/2023",m,m,m,m,m,m,m,s,m,m,m)],o),B.p,B.k,B.y)],o),B.u,B.k,B.y)),m),new A.am(new A.ac(A.au(a,m,q).w.a.a*0.5,A.au(a,m,q).w.a.b*0.05,0,0),A.i5(m,m,m,m,A.bH(A.a([A.aF("Consultant Mobile app Developer",m,m,m,m,m,m,m,s,m,m,m),B.am,A.aW(A.a([r,A.aF("      Invenics Services India Pvt Ltd",m,m,m,m,m,m,m,s,m,m,m)],o),B.p,B.k,B.y),A.aW(A.a([r,A.aF("      05/2023 - Present",m,m,m,m,m,m,m,s,m,m,m)],o),B.p,B.k,B.y)],o),B.u,B.k,B.y)),m)],o),B.u,B.k,B.r),B.n,m,m,m,m,m,new A.ac(p.a.a*0.02,0,0,0),m,m,m)
 q=A.au(a,m,q).w
 n=this.d?1:0
 return A.cG(B.T,A.a([p,A.du(0,new A.ca(B.fv,m,m,A.em(A.e6("assets/images/dash/dash2.png",m,350,m),B.aE,n),m),q.a.a*0,0,100)],o),B.R)}}
@@ -67420,7 +67420,7 @@ A.Ri.prototype={
 ab(){this.an()
 A.bT(B.Q,null,t.z).aB(new A.aeJ(this),t.P)},
 A(a){var s=null,r=A.au(a,s,t.w).w.a,q=r.b,p=r.a,o=p*0.7,n=p*0.2,m=q*0.1,l=t.p
-o=A.a6(A.bH(A.a([A.a6(s,q*0.13,s),A.f1(A.a6(A.i5(s,s,s,s,new A.am(new A.ac(n,m,0,0),A.bH(A.a([A.aF(" Java, Postgres Programmer",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s),B.am,A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      Bayasys Infotech Pvt Ltd.",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s)],l),B.p,B.k,B.y),A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      07/2019 - 09/2020",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s)],l),B.p,B.k,B.y)],l),B.u,B.k,B.y),s)),s,o)),A.f1(A.a6(A.i5(s,s,s,s,new A.am(new A.ac(n,m,0,0),A.bH(A.a([A.aF("Flutter Developer",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s),B.am,A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      Indbytes Technologies",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s)],l),B.p,B.k,B.y),A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      12/2020 - 05/2023",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s)],l),B.p,B.k,B.y)],l),B.u,B.k,B.y),s)),s,o)),A.f1(A.a6(A.i5(s,s,s,s,new A.am(new A.ac(n,m,0,0),A.bH(A.a([A.aF("Senior Mobile app Developer",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s),B.am,A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      Invenics Services India Pvt Ltd",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s)],l),B.p,B.k,B.y),A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      05/2023 - Present",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s)],l),B.p,B.k,B.y)],l),B.u,B.k,B.y),s)),s,o))],l),B.u,B.k,B.r),s,p*0.78)
+o=A.a6(A.bH(A.a([A.a6(s,q*0.13,s),A.f1(A.a6(A.i5(s,s,s,s,new A.am(new A.ac(n,m,0,0),A.bH(A.a([A.aF(" Java, Postgres Programmer",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s),B.am,A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      Bayasys Infotech Pvt Ltd.",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s)],l),B.p,B.k,B.y),A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      07/2019 - 09/2020",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s)],l),B.p,B.k,B.y)],l),B.u,B.k,B.y),s)),s,o)),A.f1(A.a6(A.i5(s,s,s,s,new A.am(new A.ac(n,m,0,0),A.bH(A.a([A.aF("Flutter Developer",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s),B.am,A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      Indbytes Technologies Pvt Ltd",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s)],l),B.p,B.k,B.y),A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      12/2020 - 05/2023",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s)],l),B.p,B.k,B.y)],l),B.u,B.k,B.y),s)),s,o)),A.f1(A.a6(A.i5(s,s,s,s,new A.am(new A.ac(n,m,0,0),A.bH(A.a([A.aF("Consultant Mobile app Developer",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s),B.am,A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      Invenics Services India Pvt Ltd",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s)],l),B.p,B.k,B.y),A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      05/2023 - Present",s,s,s,s,s,s,s,A.S(a).p2.y,s,s,s)],l),B.p,B.k,B.y)],l),B.u,B.k,B.y),s)),s,o))],l),B.u,B.k,B.r),s,p*0.78)
 n=this.d?1:0
 return A.cG(B.T,A.a([o,A.du(0,new A.ca(B.jc,s,s,A.em(A.bM(s,A.e6("assets/images/dash/dash2.png",s,280,s),B.n,s,s,s,s,s,s,s,s,s),B.aE,n),s),0,-50,0)],l),B.R)}}
 A.aeJ.prototype={
@@ -67695,8 +67695,8 @@ T(){return new A.Rn(B.h)}}
 A.Rn.prototype={
 ab(){this.an()
 A.bT(B.Q,null,t.z).aB(new A.af4(this),t.P)},
-A(a){var s=null,r=A.au(a,s,t.w).w.a,q=r.b,p=r.a,o=A.a6(s,q*0.13,s),n=A.a6(s,q*0.12,s),m=p*0.2,l=t.p,k=A.f1(A.a6(A.i5(s,s,s,s,new A.am(new A.ac(m,0,0,0),A.bH(A.a([A.aF(" Java, Postgres Programmer",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s),B.am,A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      Bayasys Infotech Pvt Ltd.",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s)],l),B.p,B.k,B.y),A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      07/2019 - 09/2020",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s)],l),B.p,B.k,B.y)],l),B.u,B.k,B.y),s)),s,s)),j=q*0.05,i=A.f1(A.a6(A.i5(s,s,s,s,new A.am(new A.ac(m,j,0,0),A.bH(A.a([A.aF("Flutter Developer",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s),B.am,A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      Indbytes Technologies",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s)],l),B.p,B.k,B.y),A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      12/2020 - 05/2023",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s)],l),B.p,B.k,B.y)],l),B.u,B.k,B.y),s)),s,s))
-j=A.f1(A.a6(A.i5(s,s,s,s,new A.am(new A.ac(m,j,0,0),A.bH(A.a([A.aF("Senior Mobile app Developer",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s),B.am,A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      Invenics Services India Pvt Ltd",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s)],l),B.p,B.k,B.y),A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      05/2023 - Present",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s)],l),B.p,B.k,B.y)],l),B.u,B.k,B.y),s)),s,s))
+A(a){var s=null,r=A.au(a,s,t.w).w.a,q=r.b,p=r.a,o=A.a6(s,q*0.13,s),n=A.a6(s,q*0.12,s),m=p*0.2,l=t.p,k=A.f1(A.a6(A.i5(s,s,s,s,new A.am(new A.ac(m,0,0,0),A.bH(A.a([A.aF(" Java, Postgres Programmer",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s),B.am,A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      Bayasys Infotech Pvt Ltd.",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s)],l),B.p,B.k,B.y),A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      07/2019 - 09/2020",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s)],l),B.p,B.k,B.y)],l),B.u,B.k,B.y),s)),s,s)),j=q*0.05,i=A.f1(A.a6(A.i5(s,s,s,s,new A.am(new A.ac(m,j,0,0),A.bH(A.a([A.aF("Flutter Developer",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s),B.am,A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      Indbytes Technologies Pvt Ltd",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s)],l),B.p,B.k,B.y),A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      12/2020 - 05/2023",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s)],l),B.p,B.k,B.y)],l),B.u,B.k,B.y),s)),s,s))
+j=A.f1(A.a6(A.i5(s,s,s,s,new A.am(new A.ac(m,j,0,0),A.bH(A.a([A.aF("Consultant Mobile app Developer",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s),B.am,A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      Invenics Services India Pvt Ltd",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s)],l),B.p,B.k,B.y),A.aW(A.a([A.fp(A.S(a).k2,5),A.aF("      05/2023 - Present",s,s,s,s,s,s,s,A.S(a).p2.c,s,s,s)],l),B.p,B.k,B.y)],l),B.u,B.k,B.y),s)),s,s))
 m=this.d?1:0
 return A.bH(A.a([o,new A.pY(p,"Experience",s),n,k,i,j,new A.ko(1,B.eg,A.em(A.e6("assets/images/dash/dash2.png",s,280,s),B.aE,m),s)],l),B.u,B.k,B.r)}}
 A.af4.prototype={
@@ -71162,11 +71162,11 @@ B.fd=new A.xK(0,"clip")
 B.aC=new A.a74(0,"parent")
 B.Rk=new A.Nw(null)
 B.ki=new A.oF(B.w6,null,!0,B.fd,null,B.aC,null,B.Rk,null)
-B.AV=new A.fr("\nIndbytes Technologies",null)
-B.AW=new A.fr("12/2020 - 05/2023",null)
-B.AX=new A.fr("sivaprasadnk.official@gmail.com",null)
-B.AY=new A.fr("05/2023 - Present",null)
-B.AZ=new A.fr("+91 8086028340",null)
+B.AV=new A.fr("12/2020 - 05/2023",null)
+B.AW=new A.fr("sivaprasadnk.official@gmail.com",null)
+B.AX=new A.fr("05/2023 - Present",null)
+B.AY=new A.fr("+91 8086028340",null)
+B.AZ=new A.fr("\nIndbytes Technologies Pvt Ltd",null)
 B.B_=new A.fr("\nBayasys Infotech Pvt Ltd.",null)
 B.B0=new A.fr("\nInvenics Services India Pvt Ltd",null)
 B.B1=new A.fr("07/2019 - 09/2020",null)
@@ -73122,8 +73122,8 @@ B.Pt=new A.xP(null,null,null,null,null,null,null,null,null,null,null,null,null,n
 B.Pu=new A.jE("Address",null)
 B.Pv=new A.jE("Java , Postgres Programmer",null)
 B.Pw=new A.jE("Mobile",null)
-B.Px=new A.jE("Senior Mobile app Developer",null)
-B.Py=new A.jE("E-mail",null)
+B.Px=new A.jE("E-mail",null)
+B.Py=new A.jE("Consultant Mobile app Developer",null)
 B.Pz=new A.jE("Flutter Developer",null)
 B.PA=new A.xQ(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.c1=new A.Jg(0.001,0.001)
