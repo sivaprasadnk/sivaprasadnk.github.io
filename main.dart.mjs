@@ -507,6 +507,18 @@ _1689: () => {
 _1690: () => typeof dartUseDateNowForTicks !== "undefined",
 _1691: () => 1000 * performance.now(),
 _1692: () => Date.now(),
+_1693: () => {
+      // On browsers return `globalThis.location.href`
+      if (globalThis.location != null) {
+        return stringToDartString(globalThis.location.href);
+      }
+      return null;
+    },
+_1694: () => {
+        return typeof process != "undefined" &&
+               Object.prototype.toString.call(process) == "[object process]" &&
+               process.platform == "win32"
+      },
 _1695: () => new WeakMap(),
 _1696: (map, o) => map.get(o),
 _1697: (map, o, v) => map.set(o, v),
@@ -531,6 +543,7 @@ _1767: a => a.length,
 _1769: (a, i) => a[i],
 _1770: (a, i, v) => a[i] = v,
 _1772: a => a.join(''),
+_1773: (o, a, b) => o.replace(a, b),
 _1775: (s, t) => s.split(t),
 _1776: s => s.toLowerCase(),
 _1777: s => s.toUpperCase(),
@@ -554,6 +567,7 @@ _1791: (o, start, length) => new Int32Array(o.buffer, o.byteOffset + start, leng
 _1793: (o, start, length) => new BigInt64Array(o.buffer, o.byteOffset + start, length),
 _1794: (o, start, length) => new Float32Array(o.buffer, o.byteOffset + start, length),
 _1795: (o, start, length) => new Float64Array(o.buffer, o.byteOffset + start, length),
+_1796: (s) => s.replace(/\$/g, "$$$$"),
 _1797: Object.is,
 _1798: (t, s) => t.set(s),
 _1800: (o) => new DataView(o.buffer, o.byteOffset, o.byteLength),
@@ -672,6 +686,7 @@ _1904: s => {
 _1907: x0 => x0.index,
 _1909: x0 => x0.length,
 _1911: (x0,x1) => x0[x1],
+_1913: (x0,x1) => x0.exec(x1),
 _1915: x0 => x0.flags,
 _1916: x0 => x0.multiline,
 _1917: x0 => x0.ignoreCase,
