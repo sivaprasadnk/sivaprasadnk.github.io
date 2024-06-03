@@ -82,7 +82,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a2ea0ef8ecd49f51224383dc9c441b37
 "assets/assets/svg/whatsapp_1.svg": "5042039fd0a06b7e17f062345977658f",
 "assets/FontManifest.json": "5514cfca37424a7b7712fc8ebe834d43",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "aecd48a3fc662484d6bf0d9002039d6e",
+"assets/NOTICES": "3c3b4055ee15bf85bbb13a8c6853d667",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b93248a553f9e8bc17f1065929d5934b",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b37ae0f14cbc958316fac4635383b6e8",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "5178af1d278432bec8fc830d50996d6f",
@@ -100,15 +100,15 @@ const RESOURCES = {"assets/AssetManifest.bin": "a2ea0ef8ecd49f51224383dc9c441b37
 "canvaskit/skwasm.worker.js": "bfb704a6c714a75da9ef320991e88b03",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "383e55f7f3cce5be08fcf1f3881f585c",
-"flutter_bootstrap.js": "318daa70d5f23a25cde102a511f60743",
+"flutter_bootstrap.js": "cbd040e2e7f0a08169dfb92b353ff5be",
 "icons/Icon-192.png": "11cf43083c086a6822d0d71a849a78d7",
 "icons/Icon-192a.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "d49bd890b8063127971d102112c39836",
-"/": "d49bd890b8063127971d102112c39836",
-"main.dart.js": "4d313c26ee243c8582ed653f40f5c6cd",
+"index.html": "76f218b0f64dee1e0373d472e47ef337",
+"/": "76f218b0f64dee1e0373d472e47ef337",
+"main.dart.js": "2cf8c4196ad94bceaa942cc7317fdf71",
 "main.dart.mjs": "9cd27e334dd6e29a214b6f5200697d1b",
-"main.dart.wasm": "0228a7befa3fa2fde12f398cb9419ce8",
+"main.dart.wasm": "8388c4277bdc1c47eb430336a1dcadd7",
 "manifest.json": "c5f77348de3d65f8126c73b9bce93f8c",
 "moviez-app/index.html": "693a18018934c5514a4cdd7ecc565c76",
 "moviez-app/privacy-policy/index.html": "693a18018934c5514a4cdd7ecc565c76",
@@ -118,7 +118,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a2ea0ef8ecd49f51224383dc9c441b37
 "pdf-creator/privacy-policy/privacy-policy.md": "d41d8cd98f00b204e9800998ecf8427e",
 "privacy-policy/index.html": "bb96f6fd4e74b29ff297d9748416de8b",
 "privacy-policy/privacy-policy.md": "d41d8cd98f00b204e9800998ecf8427e",
-"version.json": "7adbd5c29281b51f1722fb2e09be415f"};
+"version.json": "0e288361cad222570e4fc3dcffc8c25f"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
