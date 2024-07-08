@@ -477,6 +477,8 @@ _1548: x0 => x0.ready,
 _1549: x0 => x0.selectedTrack,
 _1550: x0 => x0.repetitionCount,
 _1551: x0 => x0.frameCount,
+_1612: (x0,x1,x2,x3) => x0.addEventListener(x1,x2,x3),
+_1622: (x0,x1,x2,x3) => x0.removeEventListener(x1,x2,x3),
 _1625: (x0,x1,x2,x3) => x0.open(x1,x2,x3),
 _1636: x0 => new Array(x0),
 _1670: (decoder, codeUnits) => decoder.decode(codeUnits),
@@ -507,6 +509,18 @@ _1689: () => {
 _1690: () => typeof dartUseDateNowForTicks !== "undefined",
 _1691: () => 1000 * performance.now(),
 _1692: () => Date.now(),
+_1693: () => {
+      // On browsers return `globalThis.location.href`
+      if (globalThis.location != null) {
+        return stringToDartString(globalThis.location.href);
+      }
+      return null;
+    },
+_1694: () => {
+        return typeof process != "undefined" &&
+               Object.prototype.toString.call(process) == "[object process]" &&
+               process.platform == "win32"
+      },
 _1695: () => new WeakMap(),
 _1696: (map, o) => map.get(o),
 _1697: (map, o, v) => map.set(o, v),
@@ -522,11 +536,19 @@ _1723: (ms, c) =>
 _1724: (handle) => clearTimeout(handle),
 _1727: (c) =>
               queueMicrotask(() => dartInstance.exports.$invokeCallback(c)),
+_1729: () => new XMLHttpRequest(),
+_1730: (x0,x1,x2,x3) => x0.open(x1,x2,x3),
+_1731: (x0,x1,x2) => x0.setRequestHeader(x1,x2),
+_1732: (x0,x1) => x0.send(x1),
+_1734: x0 => x0.getAllResponseHeaders(),
+_1741: f => finalizeWrapper(f,x0 => dartInstance.exports._1741(f,x0)),
+_1742: f => finalizeWrapper(f,x0 => dartInstance.exports._1742(f,x0)),
 _1760: (a, i) => a.push(i),
 _1764: a => a.pop(),
 _1765: (a, i) => a.splice(i, 1),
 _1767: (a, s) => a.join(s),
 _1768: (a, s, e) => a.slice(s, e),
+_1770: (a, b) => a == b ? 0 : (a > b ? 1 : -1),
 _1771: a => a.length,
 _1773: (a, i) => a[i],
 _1774: (a, i, v) => a[i] = v,
@@ -678,6 +700,12 @@ _1921: x0 => x0.ignoreCase,
 _1922: x0 => x0.unicode,
 _1923: x0 => x0.dotAll,
 _1924: (x0,x1) => x0.lastIndex = x1,
+_2004: (x0,x1) => x0.withCredentials = x1,
+_2007: x0 => x0.responseURL,
+_2008: x0 => x0.status,
+_2009: x0 => x0.statusText,
+_2010: (x0,x1) => x0.responseType = x1,
+_2012: x0 => x0.response,
 _3769: () => globalThis.window,
 _3849: x0 => x0.navigator,
 _4330: x0 => x0.userAgent
