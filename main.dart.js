@@ -71231,7 +71231,7 @@ A.X6.prototype={
 $0(){var s=0,r=A.P(t.H)
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
 while(true)switch(s){case 0:s=2
-return A.X(A.CV(A.df("https://sivaprasadnk.dev/resume.pdf",0,null)),$async$$0)
+return A.X(A.CV(A.df("https://sivaprasadnk.dev/Sivaprasad NK's resume.pdf",0,null)),$async$$0)
 case 2:return A.N(null,r)}})
 return A.O($async$$0,r)},
 $S:16}
@@ -77571,8 +77571,8 @@ j.toString
 i=B.a2.i(0,900)
 i.toString
 return A.aW([50,h,100,q,200,p,300,o,400,n,500,m,600,l,700,k,800,j,900,i],t.S,t.l)})
-r($,"aMY","anf",()=>A.eg()===B.ad?"whatsapp://send?phone=+918086028340":"https://web.whatsapp.com/send?phone=918086028340")
 r($,"aMK","cm",()=>$.atR())
+r($,"aMY","anf",()=>A.eg()===B.ad?"whatsapp://send?phone=+918086028340":"https://web.whatsapp.com/send?phone=918086028340")
 r($,"aMJ","awm",()=>{var q="Rajdhani",p=null
 return A.KB(B.wG,B.X,B.xg,p,B.Av,p,B.au,B.FM,B.e0,B.i9.KR(A.ar6(B.a2,t._),B.w9),B.n.Og(0.2),B.au,A.Ky(A.cg(p,p,B.au,p,p,p,p,p,q,p,p,21,p,p,B.an,p,p,!0,p,p,p,p,p,p,p,p),A.cg(p,p,B.au,p,p,p,p,p,q,p,p,18,p,p,B.an,p,p,!0,p,p,p,p,p,p,p,p),A.cg(p,p,B.au,p,p,p,p,p,q,p,p,15,p,p,B.an,p,p,!0,p,p,p,p,p,p,p,p),A.cg(p,p,B.au,p,p,p,p,p,"Zina",p,p,50,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),A.cg(p,p,B.au,p,p,p,p,p,q,p,p,30,p,p,B.an,p,p,!0,p,p,p,p,p,p,p,p),A.cg(p,p,B.au,p,p,p,p,p,q,p,p,20,p,p,B.an,p,p,!0,p,p,p,p,p,p,p,p),p,p,A.cg(p,p,B.au,p,p,p,p,p,"Zina",p,p,50,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p,p,A.cg(p,p,B.au,p,p,p,p,p,q,p,p,35,p,p,B.an,p,p,!0,p,p,p,p,p,p,p,p),p,p),p)})
 r($,"aMB","awj",()=>{var q="Rajdhani",p=null
