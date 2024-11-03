@@ -26163,10 +26163,10 @@ case 2:return"My Skills"
 case 3:return"Experience"
 case 4:return"Projects"
 case 5:return"Contact me"}},
-aOk(a){switch(a.a){case 0:return B.Fs
+aOk(a){switch(a.a){case 0:return B.Ft
 case 1:return B.Fx
-case 2:return B.Fw
-case 3:return B.Fv
+case 2:return B.Fo
+case 3:return B.Fw
 case 4:return B.Fl
 case 5:return B.Fn}},
 iE:function iE(a,b){this.a=a
@@ -83476,7 +83476,7 @@ $S:0}
 A.JH.prototype={
 F(a){var s=null,r=A.F(a).p2.c
 r.toString
-return new A.Cn(A.dk(A.eR(s,A.j0(A.ef(A.a([A.d2("Download CV",s,s,s,s,s,s,s,r.ds(A.F(a).go),s,s,s),B.e_,A.ll(B.Fq,A.F(a).go,s)],t.p),B.H,B.z,B.b5),s,B.D,s,B.aL,s,50,s,B.ET,s),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a2I(),s,s,s),B.ag,s,s,s,!0),s)}}
+return new A.Cn(A.dk(A.eR(s,A.j0(A.ef(A.a([A.d2("Download CV",s,s,s,s,s,s,s,r.ds(A.F(a).go),s,s,s),B.e_,A.ll(B.Fr,A.F(a).go,s)],t.p),B.H,B.z,B.b5),s,B.D,s,B.aL,s,50,s,B.ET,s),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a2I(),s,s,s),B.ag,s,s,s,!0),s)}}
 A.a2I.prototype={
 $0(){var s=0,r=A.O(t.H)
 var $async$$0=A.P(function(a,b){if(a===1)return A.L(b,r)
@@ -83689,7 +83689,7 @@ return A.j0(s,s,B.D,new A.ce(r,s,s,q,s,s,B.a5),B.aW,s,2,s,s,p)},
 $S:549}
 A.Q_.prototype={
 F(a){var s=null
-return A.dk(A.eR(s,A.ll(B.Fo,A.F(a).fr,s),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ahU(a),s,s,s),B.ag,s,s,s,!0)}}
+return A.dk(A.eR(s,A.ll(B.Fp,A.F(a).fr,s),B.X,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ahU(a),s,s,s),B.ag,s,s,s,!0)}}
 A.ahU.prototype={
 $0(){var s,r,q=this.a,p=A.qn(q,!0).c
 p.toString
@@ -83721,7 +83721,7 @@ $S:0}
 A.Ig.prototype={
 F(a){return A.dk(A.ih(new A.a0u(),t._Q,t.bk),B.ag,null,null,null,!0)}}
 A.a0u.prototype={
-$2(a,b){var s=null,r=b.a.ax.a!==B.V?A.ll(B.Fp,A.F(a).fr,s):A.ll(B.Ft,A.F(a).fr,s)
+$2(a,b){var s=null,r=b.a.ax.a!==B.V?A.ll(B.Fq,A.F(a).fr,s):A.ll(B.Fu,A.F(a).fr,s)
 return A.e2(A.eR(s,r,B.X,!1,s,new A.a0s(),s,s,s,s,s,s,s,s,s,s,s,s,new A.a0t(b,a),s,s,s),50,75)},
 $S:552}
 A.a0s.prototype={
@@ -88056,14 +88056,14 @@ B.Fl=new A.dz(57487,"MaterialIcons",null,!1)
 B.Fm=new A.dz(57490,"MaterialIcons",null,!0)
 B.Fn=new A.dz(57638,"MaterialIcons",null,!1)
 B.m0=new A.dz(57706,"MaterialIcons",null,!1)
-B.Fo=new A.dz(57724,"MaterialIcons",null,!1)
-B.Fp=new A.dz(57776,"MaterialIcons",null,!1)
-B.Fq=new A.dz(57857,"MaterialIcons",null,!1)
-B.Fs=new A.dz(58136,"MaterialIcons",null,!1)
-B.Ft=new A.dz(58234,"MaterialIcons",null,!1)
+B.Fo=new A.dz(57718,"MaterialIcons",null,!1)
+B.Fp=new A.dz(57724,"MaterialIcons",null,!1)
+B.Fq=new A.dz(57776,"MaterialIcons",null,!1)
+B.Fr=new A.dz(57857,"MaterialIcons",null,!1)
+B.Ft=new A.dz(58136,"MaterialIcons",null,!1)
+B.Fu=new A.dz(58234,"MaterialIcons",null,!1)
 B.i0=new A.dz(58332,"MaterialIcons",null,!1)
-B.Fv=new A.dz(59122,"MaterialIcons",null,!1)
-B.Fw=new A.dz(984348,"MaterialIcons",null,!1)
+B.Fw=new A.dz(59122,"MaterialIcons",null,!1)
 B.Fx=new A.dz(985200,"MaterialIcons",null,!1)
 B.Fy=new A.dz(985213,"MaterialIcons",null,!1)
 B.Fz=new A.cW(null,null,null,null,null,B.j,null,null,null)
@@ -88072,7 +88072,7 @@ B.m1=new A.cW(24,0,400,0,48,B.m,1,null,!1)
 B.FB=new A.zL(0,"animatedOnTap")
 B.m2=new A.zL(1,"animatedOnHover")
 B.eH=new A.zL(2,"continueAnimation")
-B.Fr=new A.dz(57947,"MaterialIcons",null,!1)
+B.Fs=new A.dz(57947,"MaterialIcons",null,!1)
 B.DJ=new A.i(4294962158)
 B.DB=new A.i(4294954450)
 B.D2=new A.i(4293892762)
@@ -88084,9 +88084,9 @@ B.CB=new A.i(4291176488)
 B.Cu=new A.i(4290190364)
 B.Ke=new A.cM([50,B.DJ,100,B.DB,200,B.D2,300,B.CU,400,B.D1,500,B.Db,600,B.CT,700,B.li,800,B.CB,900,B.Cu],t.pl)
 B.Kq=new A.uz(B.Ke,4294198070)
-B.FC=new A.u1(B.Fr,B.Kq,null,null)
-B.Fu=new A.dz(58727,"MaterialIcons",null,!1)
-B.FD=new A.u1(B.Fu,null,null,null)
+B.FC=new A.u1(B.Fs,B.Kq,null,null)
+B.Fv=new A.dz(58727,"MaterialIcons",null,!1)
+B.FD=new A.u1(B.Fv,null,null,null)
 B.FE=new A.u6(null,null,null,null,null,null)
 B.FL=new A.u7(0,"repeat")
 B.FM=new A.u7(1,"repeatX")
