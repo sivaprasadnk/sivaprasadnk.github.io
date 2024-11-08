@@ -54,8 +54,8 @@
 .firebase{
     /* background-color: red; */
     color: var(--primary-color);
-    /* -webkit-mask: url(images/firebase.svg) no-repeat center; */
-    /* mask: url(images/firebase.svg) no-repeat center; */
+    /* -webkit-mask: url(public/images/firebase.svg) no-repeat center; */
+    /* mask: url(public/images/firebase.svg) no-repeat center; */
 }
 
 .skill-details{
