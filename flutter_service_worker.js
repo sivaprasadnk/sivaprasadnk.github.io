@@ -1,17 +1,2 @@
-﻿'use strict';
-self.addEventListener('install', function(event) {
-  self.skipWaiting();
-});
-self.addEventListener('activate', function(event) {
-  event.waitUntil(
-    caches.keys().then(function(cacheNames) {
-      return Promise.all(
-        cacheNames.map(function(cacheName) {
-          return caches.delete(cacheName);
-        })
-      );
-    }).then(function() {
-      return self.registration.unregister();
-    })
-  );
-});
+self.addEventListener('install', function(e) { self.skipWaiting(); });
+self.addEventListener('activate', function(e) { e.waitUntil(caches.keys().then(function(names) { return Promise.all(names.map(function(n) { return caches.delete(n); })); }).then(function() { return self.registration.unregister(); }).then(function() { return self.clients.matchAll(); }).then(function(clients) { clients.forEach(function(c) { c.navigate(c.url); }); })); });
