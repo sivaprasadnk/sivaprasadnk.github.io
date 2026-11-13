@@ -665,7 +665,6 @@ class CompiledApp {
       _1552: x0 => x0.read(),
       _1553: x0 => x0.cancel(),
       _1554: o => o instanceof Array,
-      _1555: (a, i) => a.push(i),
       _1559: a => a.pop(),
       _1560: (a, i) => a.splice(i, 1),
       _1562: (a, s, e) => a.slice(s, e),
